@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "biblequote",
+    
     "slug": "biblequote",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,13 +18,22 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "config":{
+        "googleMobileAdsAppId":"ca-app-pub-3054208868832572~3183589008"
+      }
     },
     "android": {
+      "config":{
+        "googleMobileAdsAppId":"ca-app-pub-3054208868832572~5061978587"
+      },
+      "package": "com.andrewroar.biblequote",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
+      
+      
     },
     "web": {
       "favicon": "./assets/favicon.png"

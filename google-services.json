@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002567858697",
+    "project_id": "bible-quote-6c1ee",
+    "storage_bucket": "bible-quote-6c1ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002567858697:android:ecf6731826b4731ae916d8",
+        "android_client_info": {
+          "package_name": "com.andrewroar.biblequote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002567858697-o9fvi2dekrd2so57e90cuhkl5lteorft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9gmZlyARzmR5tXuEEE7XnkvfsQDduvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002567858697-o9fvi2dekrd2so57e90cuhkl5lteorft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
